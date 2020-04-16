@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93c106aa-0ac2-4a92-9559-aba0c0ff3fcc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UVV6TejRjSX8G4TKekOZ7yAwt7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="JUnit.CopierShould">
+    <configuration name="CopierShould" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="character-copier-kata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.francesca.pascalau.charactercopier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.francesca.pascalau.charactercopier" />
+      <option name="MAIN_CLASS_NAME" value="com.francesca.pascalau.charactercopier.CopierShould" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CopierShould.testSpyReturnsRealValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="character-copier-kata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.francesca.pascalau.charactercopier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.francesca.pascalau.charactercopier" />
+      <option name="MAIN_CLASS_NAME" value="com.francesca.pascalau.charactercopier.CopierShould" />
+      <option name="METHOD_NAME" value="testSpyReturnsRealValues" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CopierShould" />
+        <item itemvalue="JUnit.CopierShould.testSpyReturnsRealValues" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93c106aa-0ac2-4a92-9559-aba0c0ff3fcc" name="Default Changelist" comment="" />
+      <created>1575441573230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575441573230</updated>
+      <workItem from="1575441577561" duration="1828000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="271" key="GridCell.Tab.0.bottom" timestamp="1576514732550">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/0.23.1440.820/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1575444492310" />
+    <state width="1398" height="271" key="GridCell.Tab.0.bottom/0.23.1440.821/1440.-157.1920.1057@0.23.1440.821" timestamp="1576514732550" />
+    <state width="1878" height="271" key="GridCell.Tab.0.bottom/0.23.1440.821/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1576514389542" />
+    <state width="1878" height="469" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-157.1920.1028@1440.-157.1920.1028" timestamp="1576511816149" />
+    <state width="1398" height="271" key="GridCell.Tab.0.center" timestamp="1576514732549">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.center/0.23.1440.820/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1575444492309" />
+    <state width="1398" height="271" key="GridCell.Tab.0.center/0.23.1440.821/1440.-157.1920.1057@0.23.1440.821" timestamp="1576514732549" />
+    <state width="1878" height="271" key="GridCell.Tab.0.center/0.23.1440.821/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1576514389542" />
+    <state width="1878" height="469" key="GridCell.Tab.0.center/0.23.1440.877/1440.-157.1920.1028@1440.-157.1920.1028" timestamp="1576511816147" />
+    <state width="1398" height="271" key="GridCell.Tab.0.left" timestamp="1576514732548">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.left/0.23.1440.820/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1575444492308" />
+    <state width="1398" height="271" key="GridCell.Tab.0.left/0.23.1440.821/1440.-157.1920.1057@0.23.1440.821" timestamp="1576514732548" />
+    <state width="1878" height="271" key="GridCell.Tab.0.left/0.23.1440.821/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1576514389541" />
+    <state width="1878" height="469" key="GridCell.Tab.0.left/0.23.1440.877/1440.-157.1920.1028@1440.-157.1920.1028" timestamp="1576511816147" />
+    <state width="1398" height="271" key="GridCell.Tab.0.right" timestamp="1576514732550">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.right/0.23.1440.820/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1575444492309" />
+    <state width="1398" height="271" key="GridCell.Tab.0.right/0.23.1440.821/1440.-157.1920.1057@0.23.1440.821" timestamp="1576514732550" />
+    <state width="1878" height="271" key="GridCell.Tab.0.right/0.23.1440.821/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1576514389542" />
+    <state width="1878" height="469" key="GridCell.Tab.0.right/0.23.1440.877/1440.-157.1920.1028@1440.-157.1920.1028" timestamp="1576511816148" />
+    <state x="2009" y="87" width="782" height="540" key="find.popup" timestamp="1576509526233">
+      <screen x="1440" y="-157" width="1920" height="1028" />
+    </state>
+    <state x="2009" y="87" width="782" height="540" key="find.popup/0.23.1440.877/1440.-157.1920.1028@1440.-157.1920.1028" timestamp="1576509526233" />
+    <state x="1953" y="24" width="894" height="848" key="search.everywhere.popup" timestamp="1576510956460">
+      <screen x="1440" y="-157" width="1920" height="1028" />
+    </state>
+    <state x="385" y="167" width="670" height="676" key="search.everywhere.popup/0.23.1440.820/1440.-157.1920.1057@0.23.1440.820" timestamp="1575442513225" />
+    <state x="1953" y="24" width="894" height="848" key="search.everywhere.popup/0.23.1440.877/1440.-157.1920.1028@1440.-157.1920.1028" timestamp="1576510956460" />
+  </component>
+</project>

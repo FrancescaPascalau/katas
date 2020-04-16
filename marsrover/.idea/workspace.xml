@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e99683df-8757-4c1d-b900-013e245275ce" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Txr10uDqIGsaAqtVWCgykNOxS7" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.RoverShould">
+    <configuration name="RoverShould" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="marsrover" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.francesca.pascalau.kata.marsrover.Location" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.francesca.pascalau.kata.marsrover" />
+      <option name="MAIN_CLASS_NAME" value="com.francesca.pascalau.kata.marsrover.RoverShould" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoverShould.when_instantiated_then_set_location" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="marsrover" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.francesca.pascalau.kata.marsrover.Location" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.francesca.pascalau.kata.marsrover" />
+      <option name="MAIN_CLASS_NAME" value="com.francesca.pascalau.kata.marsrover.RoverShould" />
+      <option name="METHOD_NAME" value="when_instantiated_then_set_location" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.francesca.pascalau.kata.marsrover in marsrover" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="marsrover" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.francesca.pascalau.kata.marsrover.Location" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.francesca.pascalau.kata.marsrover" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="marsrover" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.francesca.pascalau.kata.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoverShould" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="marsrover" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.francesca.pascalau.kata.marsrover.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.francesca.pascalau.kata.marsrover" />
+      <option name="MAIN_CLASS_NAME" value="com.francesca.pascalau.kata.marsrover.RoverShould" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoverShould.whenMoveForwardThenForward" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="marsrover" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.francesca.pascalau.kata.marsrover.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.francesca.pascalau.kata.marsrover" />
+      <option name="MAIN_CLASS_NAME" value="com.francesca.pascalau.kata.marsrover.RoverShould" />
+      <option name="METHOD_NAME" value="whenMoveForwardThenForward" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RoverShould" />
+        <item itemvalue="TestNG.RoverShould.whenMoveForwardThenForward" />
+        <item itemvalue="JUnit.MarsRoverShould" />
+        <item itemvalue="JUnit.MarsRoverShould.when_instantiated_then_set_location" />
+        <item itemvalue="JUnit.com.francesca.pascalau.kata.marsrover in marsrover" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e99683df-8757-4c1d-b900-013e245275ce" name="Default Changelist" comment="" />
+      <created>1574412368723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574412368723</updated>
+      <workItem from="1574412371821" duration="6823000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

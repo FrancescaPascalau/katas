@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54fce9b8-993a-4e03-94d5-710afe79c9d2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TFNpQAOkOVLuvpGotvREBccCY1" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.BowlingGameTest">
+    <configuration name="BowlingGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BowlingGame" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BowlingGameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BowlingGameTest.testAllOnes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BowlingGame" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BowlingGameTest" />
+      <option name="METHOD_NAME" value="testAllOnes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BowlingGameTest.testGutterGame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BowlingGame" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BowlingGameTest" />
+      <option name="METHOD_NAME" value="testGutterGame" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BowlingGameTest" />
+        <item itemvalue="JUnit.BowlingGameTest.testAllOnes" />
+        <item itemvalue="JUnit.BowlingGameTest.testGutterGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54fce9b8-993a-4e03-94d5-710afe79c9d2" name="Default Changelist" comment="" />
+      <created>1573052065772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573052065772</updated>
+      <workItem from="1573052066912" duration="4754000" />
+      <workItem from="1573108216759" duration="1447000" />
+      <workItem from="1573119982061" duration="598000" />
+      <workItem from="1573138266462" duration="599000" />
+      <workItem from="1573194604111" duration="23000" />
+      <workItem from="1573460601388" duration="55000" />
+      <workItem from="1574839596312" duration="598000" />
+      <workItem from="1575012616523" duration="694000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1829" y="69" key="new project wizard" timestamp="1579018064956">
+      <screen x="1440" y="-157" width="1920" height="1057" />
+    </state>
+    <state x="1829" y="69" key="new project wizard/0.23.1440.820/1440.-157.1920.1057@1440.-157.1920.1057" timestamp="1579018064956" />
+  </component>
+</project>

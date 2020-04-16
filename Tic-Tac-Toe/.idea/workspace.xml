@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ad8af7a-498b-419c-a9b6-be1d0e40a7ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/Cellar/maven/3.6.2/libexec" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Txf6m8VTyvVfCoculcyKBDlQ7U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.TicTacToeShould">
+    <configuration name="TicTacToeShould" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tic-Tac-Toe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.francesca.pascalau.kata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.francesca.pascalau.kata" />
+      <option name="MAIN_CLASS_NAME" value="com.francesca.pascalau.kata.TicTacToeShould" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicTacToeShould.when_X_outside_the_board_then_throw_RuntimeException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tic-Tac-Toe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.francesca.pascalau.kata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.francesca.pascalau.kata" />
+      <option name="MAIN_CLASS_NAME" value="com.francesca.pascalau.kata.TicTacToeShould" />
+      <option name="METHOD_NAME" value="when_X_outside_the_board_then_throw_RuntimeException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicTacToeShould.when_occupied_then_throw_RuntimeException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tic-Tac-Toe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.francesca.pascalau.kata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.francesca.pascalau.kata" />
+      <option name="MAIN_CLASS_NAME" value="com.francesca.pascalau.kata.TicTacToeShould" />
+      <option name="METHOD_NAME" value="when_occupied_then_throw_RuntimeException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Tic-Tac-Toe" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.francesca.pascalau.kata.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TicTacToeShould" />
+        <item itemvalue="JUnit.TicTacToeShould.when_occupied_then_throw_RuntimeException" />
+        <item itemvalue="JUnit.TicTacToeShould.when_X_outside_the_board_then_throw_RuntimeException" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ad8af7a-498b-419c-a9b6-be1d0e40a7ec" name="Default Changelist" comment="" />
+      <created>1574406493496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574406493496</updated>
+      <workItem from="1574406495924" duration="6218000" />
+      <workItem from="1575012749295" duration="2587000" />
+      <workItem from="1575022342102" duration="978000" />
+      <workItem from="1575268428639" duration="741000" />
+      <workItem from="1575441738776" duration="1026000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
